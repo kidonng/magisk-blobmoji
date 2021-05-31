@@ -6,7 +6,7 @@ This module simply replaces `/system/fonts/NotoColorEmoji.ttf`, which may confli
 
 ## Download
 
-Via [GitHub releases](https://github.com/kidonng/magisk-blobmoji/releases/download/latest/magisk-blobmoji.zip).
+Via [GitHub releases](https://github.com/kidonng/magisk-blobmoji/releases/2).
 
 ## See also
 
