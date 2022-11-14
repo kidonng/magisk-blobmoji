@@ -1,6 +1,6 @@
 id=blobmoji
 name=Blobmoji
-version=Emoji 14
-versionCode=3
+version=Emoji 15
+versionCode=4
 author=kidonng
 description=Noto Emoji font with Blobs enabled (https://github.com/kidonng/magisk-blobmoji)
